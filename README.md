@@ -1,7 +1,7 @@
 
 # Ejercicio Refactor - Stock de mercaderías
 
-[![build](https://github.com/uqbar-project/eg-stock-refactor-kotlin/actions/workflows/build.yml/badge.svg)](https://github.com/uqbar-project/eg-stock-refactor-kotlin/actions/workflows/build.yml) [![codecov](https://codecov.io/gh/uqbar-project/eg-stock-refactor-kotlin/branch/master/graph/badge.svg?token=X2bL63CJuZ)](https://codecov.io/gh/uqbar-project/eg-stock-refactor-kotlin)
+[![build](https://github.com/uqbar-project/eg-stock-refactor-kotlin/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/uqbar-project/eg-stock-refactor-kotlin/actions/workflows/build.yml) [![codecov](https://codecov.io/gh/uqbar-project/eg-stock-refactor-kotlin/branch/master/graph/badge.svg?token=X2bL63CJuZ)](https://codecov.io/gh/uqbar-project/eg-stock-refactor-kotlin)
 
 ## Enunciado
 
