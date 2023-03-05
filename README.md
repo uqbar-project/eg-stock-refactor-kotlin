@@ -1,6 +1,8 @@
 
 # Ejercicio Refactor - Stock de mercaderías
 
+[![build](https://github.com/uqbar-project/eg-stock-refactor-kotlin/actions/workflows/build.yml/badge.svg)](https://github.com/uqbar-project/eg-stock-refactor-kotlin/actions/workflows/build.yml) [![codecov](https://codecov.io/gh/uqbar-project/eg-stock-refactor-kotlin/branch/master/graph/badge.svg?token=X2bL63CJuZ)](https://codecov.io/gh/uqbar-project/eg-stock-refactor-kotlin)
+
 ## Enunciado
 
 Queremos modelar las entradas y salidas de mercadería de una empresa que tiene un único depósito, para lo cual sabemos que
